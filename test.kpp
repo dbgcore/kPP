@@ -1,0 +1,5 @@
+var x = 0
+while x < 1000:
+    print(x)
+    var x = x + 1
+}
